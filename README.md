@@ -1,7 +1,7 @@
 # App_Vendas
 # App de Vendas - Açaí e Cupuaçu
 
-Bem-vindo ao **App de Vendas** criado por Nicoly! Este aplicativo permite que você escolha entre deliciosos sabores de açaí e cupuaçu, personalizando seu pedido conforme o tamanho desejado.
+Bem-vindo ao **App de Vendas**. Este aplicativo permite que você escolha entre deliciosos sabores de açaí e cupuaçu, personalizando seu pedido conforme o tamanho desejado.
 
 ## Funcionalidades
 
